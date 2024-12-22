@@ -1,0 +1,15 @@
+4 345
+Lisa Miller 890238 Y 2
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+John Doe 123456 N 1
+Biology BIO123 3 C
+Jane Smith 654321 Y 5
+Art ART100 2 A
+Music MUS200 3 B
+Math MTH101 3 A
+Physics PHY102 4 B
+English ENG103 2 A
+Emily Davis 789012 Y 2
+History HIS201 3 B
+Geography GEO301 4 C
